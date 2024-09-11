@@ -3,3 +3,4 @@ I'm self taught and new to the world of IT and am looking to expand my knowledge
 https://linkedin.com/in/cam-duffey
 <h2>Cyber Security Projects:</h2>
 https://github.com/Cameron-Duffey/SOC-Home-Lab
+https://github.com/Cameron-Duffey/AWS-Honeypot-Lab
